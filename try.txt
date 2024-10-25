@@ -1,3 +1,6 @@
 hello there
 how are you
 i am learning git
+now new text adding
+
+really?
